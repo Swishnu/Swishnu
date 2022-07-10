@@ -7,7 +7,6 @@ First Year Student Studying Bachelor of Science and Computer Science
 I've recently developed a passion in coding, and have started my journey in learning the multiple languages. So far I have learnt python and currently learning HTML so I can possess the skill set of a front end developer.
 
 * 🌍  I'm based in Melbourne, Australia
-* 🖥️  See my portfolio at [Projects (in-progress)](http://https://github.com/Swishnu/Resume-Projects)
 * ✉️  You can contact me at [Vishnu123789456@gmail.com](mailto:Vishnu123789456@gmail.com)
 * 🚀  I'm currently working on [a Cafe Menu](http://https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/)
 
