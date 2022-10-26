@@ -8,7 +8,7 @@ I've recently developed a passion in coding, and have started my journey in lear
 
 * 🌍  I'm based in Melbourne, Australia
 * ✉️  You can contact me at [Vishnu123789456@gmail.com](mailto:Vishnu123789456@gmail.com)
-* 🚀  I'm currently working on [a Cafe Menu](http://https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/)
+* 🚀  I'm currently working on Basic Python Projects
 
 ### Skills
 
