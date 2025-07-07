@@ -7,13 +7,6 @@ I'm an aspiring **Data Scientist** pursuing a **Bachelor of Science in Computer 
 
 **🎯 Currently seeking:** Data Science internships and graduate opportunities where I can apply machine learning to meaningful problems.
 
-## 🌟 What I'm Working On
-- 🤖 Building machine learning models for healthcare and biological data analysis
-- 📊 Developing end-to-end data science projects from data collection to deployment
-- 🧠 Exploring deep learning applications in medical imaging and physiological signals
-- 📈 Creating predictive models that bridge data science and life sciences
-- 🔍 Applying statistical learning techniques to real-world datasets
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -38,19 +31,6 @@ I'm an aspiring **Data Scientist** pursuing a **Bachelor of Science in Computer 
 
 ### Certifications
 🏅 **Google Data Analytics Professional Certificate** - Completed comprehensive program covering the full data analysis process
-
-## 🎯 Areas of Interest
-- **Machine Learning**: Building predictive models and exploring deep learning applications
-- **Healthcare Analytics**: Using ML to improve patient outcomes and medical research
-- **Bioinformatics**: Applying computational methods to biological data analysis
-- **Biomedical Data Science**: Integrating physiological knowledge with advanced analytics
-- **Statistical Learning**: Developing robust models for complex, real-world datasets
-
-## 📊 GitHub Stats
-<div align="center">
-<a href="http://www.github.com/Swishnu"><img src="https://github-readme-stats.vercel.app/api?username=Swishnu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Swishnu's GitHub stats" /></a>
-<a href="http://www.github.com/Swishnu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swishnu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
 
 ## 🚀 Featured Projects
 <div width="100%" align="center">
